@@ -19,7 +19,6 @@ RDEPEND="
 	ros-noetic/rospy
 	ros-noetic/rqt_gui
 	ros-noetic/rqt_gui_py
-	ros-noetic/webkit_dependency
 	dev-python/rospkg
 	dev-python/rospkg
 "
